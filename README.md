@@ -1,1 +1,3 @@
 # STAAB-DH602-project
+# STRATEGIC TEAM ALLIANCE FOR ACHIEVING BOLD BREAKTHROUGHS
+The project repository for the course DH602.
