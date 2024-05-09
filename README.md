@@ -12,5 +12,5 @@ The images go through 3 stages:
 The project also adds wavelet compression to help improve compute times.
 
 Folder description:
-Detection: Contains the detection models, both of which use [Co-DETR]([url](https://github.com/Sense-X/Co-DETR)) from the [MMDetection]([url](https://github.com/open-mmlab/mmdetection)) library.
+Detection: Contains the detection models, both of which use [Co-DETR](https://github.com/Sense-X/Co-DETR) from the [MMDetection]([url](https://github.com/open-mmlab/mmdetection)) library.
 Classification: Contains classifier models (EfficientNet) enhanced by wavelet features. Also contains the code for long-tailed problem solutions (focal loss, intelligent subset selection, geometric augmentation).
