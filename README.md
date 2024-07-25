@@ -1,8 +1,6 @@
-# DH602-project
-# STAABB: STRATEGIC TEAM ALLIANCE FOR ACHIEVING BOLD BREAKTHROUGHS
+# Hierarchical Multi-Label Object Detection to Analyze Panoramic Dental X-rays
 
-
-Project title: Hierarchical Multi-Label Object Detection to Analyze Panoramic Dental X-rays
+DH 602: Machine Learning and Statistical Methods for Healthcare
 -
 The images go through 3 stages: 
 1. Detection of Quadrants
@@ -29,3 +27,4 @@ Detection: Contains the detection models, both of which use [Co-DETR](https://gi
 
 Classification: Contains classifier models (EfficientNet) enhanced by wavelet features. Also contains the code for long-tailed problem solutions (focal loss, intelligent subset selection, geometric augmentation).
 
+Project Team: Amruta Parulekar, Annie D'Souza, Sanjhi Priya, Bhavya Singh, Bhavya Kohli, Tejaswee Sulekh
